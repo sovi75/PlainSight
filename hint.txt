@@ -1,0 +1,1 @@
+Check the page source (Ctrl+U). The flag is inside an HTML comment.
