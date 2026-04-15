@@ -6,7 +6,7 @@
 
 \*\*Difficulty:\*\* Very Easy  
 
-\*\*Author:\*\* Your Name
+\*\*Author:\*\* Oviya S
 
 
 
